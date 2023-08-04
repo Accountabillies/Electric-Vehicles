@@ -2,7 +2,7 @@ import HeaderNavLink from './HeaderNavLink';
 import SearchField from './SearchField';
 
 const menuItems = [
-    { label: `Home`, url: `/` },
+    { label: `Index`, url: `/` },
     { label: `Scrape`, url: `/scrape` },
     { label: `Analytics`, url: `/analytics` },
   ];

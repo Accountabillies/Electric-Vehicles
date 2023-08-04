@@ -1,7 +1,7 @@
 import Header from '@/components/Header';
 import  { ReactNode } from 'react';
 
-interface RootLayoutProps {
+type RootLayoutProps = {
   children: ReactNode;
 }
 
